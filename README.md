@@ -36,7 +36,5 @@ Installing
 * Android 
 * iOS
 
-Using i2pd
-----------
 
 
